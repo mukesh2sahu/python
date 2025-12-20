@@ -8,9 +8,10 @@ What is Python?
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 Git commands :-
+ git checkout -b <branch_name> - To create a new branch
 
-1.git init<br>
-2.git add .<br>
-3.git commit -m "message"<br>
-4.git push -u origin branch_name<br>
-5.git pull origin main
+1.git init - to initialise a git repository
+2.git add . - to add changes 
+3.git commit -m "message" - commit message
+4.git push -u origin - to push code into the github
+5.git pull origin main - to pull the code from the branch 
