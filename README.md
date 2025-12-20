@@ -12,5 +12,5 @@ Git commands :-
 1.git init
 2.git add .
 3.git commit -m "message"
-4.git push -u origin <branch>
+4.git push -u origin 
 5.git pull origin main
